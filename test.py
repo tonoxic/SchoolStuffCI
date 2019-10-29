@@ -14,7 +14,7 @@ class Test(unittest.TestCase):
   def test_div(self):
     self.assertEqual(calculator.div(6,3),2)
  
- if __name__=='__main__':
-    unittest.main()
+if __name__=='__main__':
+  unittest.main()
     
     
