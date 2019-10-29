@@ -10,3 +10,6 @@ def mult(x, y):
 
 def div(x, y):
     return x / y
+
+def cry(x,y):
+    return x*x*y
